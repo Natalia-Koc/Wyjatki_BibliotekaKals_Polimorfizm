@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab03-Polimorfizm+Wyjątki_v2/1.0.0": {
+        "dependencies": {
+          "Lab03-BibliotekaKlas": "1.0.0"
+        },
+        "runtime": {
+          "Lab03-Polimorfizm+Wyjątki_v2.dll": {}
+        }
+      },
+      "Lab03-BibliotekaKlas/1.0.0": {
+        "runtime": {
+          "Lab03-BibliotekaKlas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab03-Polimorfizm+Wyjątki_v2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab03-BibliotekaKlas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

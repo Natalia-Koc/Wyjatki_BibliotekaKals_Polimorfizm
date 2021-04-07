@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVKqy+uyKo4x2XobvP8z9j2QFCH+kf7eBv9/CHuRBWcEbW0lxlcXHYXVmWT/Vvt6jaPoXtiyL2m+vR1Da9AkyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tala\\Desktop\\STUDIA\\semestr 6\\PZ\\Lab03-BibliotekaKlas\\Lab03-BibliotekaKlas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tala\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tala\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

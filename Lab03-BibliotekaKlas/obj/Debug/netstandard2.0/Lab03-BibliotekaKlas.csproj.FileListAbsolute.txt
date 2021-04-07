@@ -1,0 +1,9 @@
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\bin\Debug\netstandard2.0\Lab03-BibliotekaKlas.deps.json
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\bin\Debug\netstandard2.0\Lab03-BibliotekaKlas.dll
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\bin\Debug\netstandard2.0\Lab03-BibliotekaKlas.pdb
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\obj\Debug\netstandard2.0\Lab03-BibliotekaKlas.csprojAssemblyReference.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\obj\Debug\netstandard2.0\Lab03-BibliotekaKlas.AssemblyInfoInputs.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\obj\Debug\netstandard2.0\Lab03-BibliotekaKlas.AssemblyInfo.cs
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\obj\Debug\netstandard2.0\Lab03-BibliotekaKlas.csproj.CoreCompileInputs.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\obj\Debug\netstandard2.0\Lab03-BibliotekaKlas.dll
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab03-BibliotekaKlas\obj\Debug\netstandard2.0\Lab03-BibliotekaKlas.pdb
